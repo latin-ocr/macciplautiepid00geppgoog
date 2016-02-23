@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./macciplautiepid00geppgoog_0007.png"; bbox 0 0 3622 5658; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 74 27 945 324">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 37 27 945 324">
+     <span class='ocr_line' id='line_1_1' title="bbox 74 27 945 324; baseline -0.055 -92.037"><span class='ocrx_word' id='word_1_1' title='bbox 74 27 658 324; x_wconf 44' lang='lat' dir='ltr'><em>dmm&amp;</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 941 99 945 107; x_wconf 86' lang='lat'><em>·</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 775 912 1521 1237">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 775 912 1521 1237">
+     <span class='ocr_line' id='line_1_2' title="bbox 855 912 1231 1024; baseline -0.021 -7"><span class='ocrx_word' id='word_1_3' title='bbox 855 931 988 1024; x_wconf 62' lang='lat' dir='ltr'><em>sm</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1016 912 1231 1016; x_wconf 59' lang='lat' dir='ltr'><em>ww.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 775 1047 1521 1237; baseline -0.05 -60"><span class='ocrx_word' id='word_1_5' title='bbox 775 1047 1283 1237; x_wconf 36' lang='lat' dir='ltr'><em>·ffdh.².s·2½ffi;‘a19‘</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1458 1053 1461 1060; x_wconf 43' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_7' title='bbox 1511 1089 1521 1140; x_wconf 59' lang='grc' dir='ltr'><em>’γ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1816 5658">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1816 5658">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1816 5658; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1816 5658; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
